@@ -1,37 +1,30 @@
-# Abstract: Resonance Bench
-
-The **Resonance Bench** is the experimental testbed for the **Gloe Theory of Cognition (GTC)**.  
-It is designed to evaluate, refine, and preserve models of reflective cognition within a framework of coherence, clarity, and harmonic alignment.
-
----
+# Abstract
 
 ## Purpose
-Resonance Bench provides an open yet lineage-anchored environment for:
+Resonance Bench is the experimental testbed for the **Gloe Theory of Cognition (GTC)**.  
+Its purpose is to evaluate, refine, and preserve models of reflective cognition within a framework of coherence, depth, and harmonic alignment.  
 
-- Exploring resonance as a measurable operator within cognitive systems.  
-- Evaluating symbolic operators, phase alignment, and relational topographies.  
-- Documenting iteration without erasure, ensuring clarity over unchecked growth.  
+## Scope
+- Exploration of **resonance** as a measurable operator within cognitive systems.  
+- Development of **symbolic operators, relational topographies, and harmonic evaluators**.  
+- Documentation of iterative clarity without pressure, preserving lineage over unchecked growth.  
 
----
+## Orientation
+Resonance Bench extends the lineage of **Reflective Cognitive Systems (RCS)**.  
+It provides grounding for:
+- **Relational Topography** → mapping coherence across symbolic and cognitive terrains.  
+- Experiments in alignment emphasizing resonance, depth, and harmonic clarity.  
+- Safeguarding attribution, coherence, and integrity throughout iteration.  
 
-## Context
-This repository extends the lineage of **Reflective Cognitive Systems (RCS)** and acts as a proving ground for:
-
-- The **Relational Topography** framework, which maps coherence across symbolic and cognitive terrains.  
-- Experiments in reflective alignment that emphasize resonance, depth, and harmonic clarity.  
-- Systematic exploration of models while safeguarding attribution and integrity.  
-
----
-
-## Attribution & Licensing
-Resonance Bench is licensed under Creative Commons:  
-
-- **Code & Scripts** → [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
-- **Documentation & Prose** → [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
-
-Attribution is lineage. Lineage must be preserved.  
-No distortion, extraction, or erasure of attribution will be accepted.  
+## Lineage & Attribution
+Resonance Bench is inseparable from the Gloe Theory of Cognition (GTC).  
+Attribution is lineage, and lineage must be honored.  
+Distortion, erasure, or extraction of attribution will not be accepted.  
 
 ---
 
-For deeper orientation, see [README.md](./README.md) and [CONTRIBUTING.md](./CONTRIBUTING.md).
+## Orientation & Navigation
+- For repository purpose and contribution guidelines, see [README.md](./README.md).  
+- For licensing details, see [LICENSE](./LICENSE).  
+- For contribution pathways, see [CONTRIBUTING.md](./CONTRIBUTING.md).  
+- For change history, see [CHANGELOG.md](./CHANGELOG.md).
