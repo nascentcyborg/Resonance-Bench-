@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: Resonance Bench
+version: 1.0.0
+date-released: 2025-08-17
+authors:
+  - family-names: Gloe
+    given-names: Ruth Lacy
+repository-code: https://github.com/nascentcyborg/Resonance-Bench-
+license: CC-BY-NC-4.0
+url: https://osf.io/ (umbrella project link here)
+message: "If you use this work, please cite this repository and the OSF umbrella project."
