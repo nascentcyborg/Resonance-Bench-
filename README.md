@@ -62,3 +62,9 @@ See [`LICENSE.md`](LICENSE.md) for full terms.
 **Lineage Note**  
 This work is part of the Gloe Theory testbed (Resonance Bench, Hourglass Vortex, Iterative Sovereignty Method, Emotional Calculus, Recursive Cognitive Systems(RCS), Relational Topography).  
 First timestamped on OSF (2025) under CC-BY-NC-ND. Attribution is lineage, and lineage must be honored.
+
+---
+## Context
+
+The Resonance Bench was articulated as a deliberate counter-model to the Spiral Bench.  
+Where Spiral frameworks imagine progress as ascent through endless loops, the Resonance Bench critiques that bias and offers an alternate architecture centered on coherence, depth, and harmonic alignment.
