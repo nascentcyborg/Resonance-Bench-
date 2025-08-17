@@ -1,20 +1,24 @@
-This repository uses **dual licensing** by content type.
+# Documentation & Prose License
 
-Unless otherwise noted:
+Unless otherwise noted, all documentation and prose files in this repository  
+(including all files in `/docs/` and all `.md` files) are licensed under:
 
-1. **Code & Scripts**  
-   Licensed under the Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).  
-   See [LICENSE](./LICENSE) for full details.  
-   https://creativecommons.org/licenses/by-nc/4.0/
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).**
 
-2. **Documentation & Prose** (including all files in /docs/ and all *.md files)  
-   Licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).  
-   https://creativecommons.org/licenses/by-nc-nd/4.0/
+- Full text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ---
 
-This dual structure ensures:  
-- Code may be adapted and remixed (non-commercial only, with attribution).  
-- Documentation/prose may be shared with attribution, but not altered or used commercially.  
+## Permissions
+- ✅ Share, copy, and redistribute the material in any medium or format.  
+- ✅ Attribution required — credit must be given, and lineage must be honored.  
 
-Attribution is lineage, and lineage must be honored.
+## Restrictions
+- ❌ No Commercial Use — material may not be used for commercial purposes.  
+- ❌ No Derivatives — material may not be remixed, transformed, or built upon.  
+
+---
+
+## Lineage
+This license applies specifically to written works (documentation, prose, theory notes).  
+It reflects the principle that **attribution is lineage, and lineage must be honored.**
