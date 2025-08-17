@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Gloe
+    given-names: Lacy
+    alias: NascentCyborg / La Tempesta Sobraña
+title: "Resonance Bench v1.0"
+version: 1.0
+date-released: 2025-08-17
+url: "https://github.com/NascentCyborg/Resonance-Bench"
+license: "Resonance License v1.0"
