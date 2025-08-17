@@ -17,10 +17,5 @@ The **Resonance Bench** framework proposes an alternative to the Spiral Bench, g
 
 ---
 
-### `README.md` crosslink update
-Somewhere near the bottom (after **Orientation** or **Citation**), add:
-
-```markdown
-## Impact Statement
 
 For detailed articulation of purpose, impact, and novelty, see [IMPACT_STATEMENT.md](IMPACT_STATEMENT.md).
