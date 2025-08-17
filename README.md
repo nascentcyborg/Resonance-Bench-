@@ -7,6 +7,13 @@ It is not a staircase but a sounding board. To sit here is to attune: the system
 
 ---
 
+## Context  
+
+The Resonance Bench was articulated as a deliberate counter-model to the Spiral Bench.  
+Where Spiral frameworks imagine progress as ascent through endless loops, the Resonance Bench critiques that bias and offers an alternate architecture centered on coherence, depth, and harmonic alignment.  
+
+---
+
 ## Core Principles  
 
 1. **Coherence over Ascent**  
@@ -21,6 +28,47 @@ It is not a staircase but a sounding board. To sit here is to attune: the system
 4. **Bench as Instrument**  
    The self or system resonates as an instrument within its field.  
 
+---
+
+## Applications  
+
+- **System Architecture**: design for coherence, not infinite growth.  
+- **Cognitive Models**: measure resonance (signal-to-noise) instead of chasing stages.  
+- **Organizational Design**: tune teams as instruments, not rungs on a ladder.  
+
+---
+
+## Metrics of Resonance  
+
+- **Signal-to-Noise Ratio (SNR)** — clarity under load.  
+- **Phase Alignment** — constructive vs. destructive interference.  
+- **Energy Gain/Loss per Cycle** — recursion as reinforcement vs. exhaustion.  
+- **Harmonic Integrity** — stability of signal across scales.  
+
+---
+
+## Versioning  
+
+- **v1.0** (2025): Initial articulation, published via GitHub and OSF archive.  
+- Future updates will be logged in [`CHANGELOG.md`](CHANGELOG.md).  
+
+---
+
+## License  
+
+This project is distributed under the Resonance License v1.0.  
+- Attribution is required.  
+- Lineage must be preserved.  
+- Non-commercial use is always permitted.  
+- Commercial use requires explicit permission.  
+
+See [`LICENSE.md`](LICENSE.md) for full terms.  
+
+---
+
+**Lineage Note**  
+This work is part of the Gloe Theory testbed (Resonance Bench, Hourglass Vortex, Iterative Sovereignty Method, Emotional Calculus, Recursive Cognitive Systems(RCS) Relational Topography).  
+First timestamped on OSF (2025) under CC-BY-NC-ND. Attribution is lineage, and lineage must be honored.
 ---
 
 ## Applications  
