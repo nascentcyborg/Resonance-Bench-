@@ -13,9 +13,9 @@ Resonance Bench provides an open yet lineage-anchored environment for:
 
 - Exploring resonance as a measurable operator within cognitive systems.  
 - Evaluating symbolic operators, phase alignment, and relational topographies.  
-- Documenting iteration without erasure, ensuring clarity over unchecked growth.  
+- Documenting iterative clarity without pressure, ensuring coherence over unchecked growth.  
 
-For conceptual orientation, see [ABSTRACT.md](ABSTRACT.md).
+For conceptual grounding, see [ABSTRACT.md](ABSTRACT.md).
 
 ---
 
@@ -45,7 +45,7 @@ See [LICENSE](LICENSE) for full details.
 
 ## Contributing
 
-We welcome contributions that honor clarity, coherence, and lineage.  
+We welcome contributions that honor clarity, coherence, and lineage.
 
 - See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution principles.  
 - Review the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for engagement guidelines.  
@@ -63,7 +63,8 @@ See [SECURITY.md](SECURITY.md) for disclosure guidelines.
 
 ## Support
 
-For assistance:  
+For assistance:
+
 - Review [SUPPORT.md](SUPPORT.md).  
 - Open an [Issue](../../issues) or start a [Discussion](../../discussions).  
 
@@ -79,7 +80,8 @@ When referencing this work, please cite as:
 
 ## Orientation
 
-For deeper orientation, review:  
+For deeper orientation, review:
+
 - [ABSTRACT.md](ABSTRACT.md)  
 - [CONTRIBUTING.md](CONTRIBUTING.md)  
 - [CHANGELOG.md](CHANGELOG.md)  
@@ -88,5 +90,5 @@ For deeper orientation, review:
 
 ## Versioning
 
-All notable changes to this repository are documented in the [CHANGELOG.md](./CHANGELOG.md).  
+All notable changes to this repository are documented in the [CHANGELOG.md](CHANGELOG.md).  
 Version history is maintained with respect to clarity, lineage, and harmonic alignment.
