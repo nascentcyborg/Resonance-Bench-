@@ -14,3 +14,13 @@ The **Resonance Bench** framework proposes an alternative to the Spiral Bench, g
 
 - **Academic**: Offers a novel framework for cognitive science, philosophy of mind, and systems theory. It contributes to discourse on recursive cognition and reflective systems, filling a gap between abstract formal models and lived neurodivergent experience.  
 - **Technical**: Provides a foundation for tool-building in reflective AI
+
+---
+
+### `README.md` crosslink update
+Somewhere near the bottom (after **Orientation** or **Citation**), add:
+
+```markdown
+## Impact Statement
+
+For detailed articulation of purpose, impact, and novelty, see [IMPACT_STATEMENT.md](IMPACT_STATEMENT.md).
