@@ -85,3 +85,8 @@ For deeper orientation, review:
 - [CHANGELOG.md](CHANGELOG.md)  
 
 ---
+
+## Versioning
+
+All notable changes to this repository are documented in the [CHANGELOG.md](./CHANGELOG.md).  
+Version history is maintained with respect to clarity, lineage, and harmonic alignment.
