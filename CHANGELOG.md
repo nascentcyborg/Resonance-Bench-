@@ -48,3 +48,7 @@ Versions will be tracked with respect to coherence and harmonic alignment, not j
 
 Resonance Bench is part of the **Gloe Theory of Cognition (GTC)** lineage.  
 Attribution is lineage, and lineage must be preserved.
+
+---
+
+For project overview, context, and contribution guidelines, see the [README.md](./README.md).
