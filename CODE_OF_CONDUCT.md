@@ -1,52 +1,49 @@
-# Code of Conduct
+# Contributing to Resonance Bench
 
-The Resonance Bench community is built on clarity, coherence, and respect for lineage.  
-All participants are expected to uphold these values when engaging with this project.
+Thank you for your interest in the **Resonance Bench**.  
+This repository is part of the **Gloe Theory of Cognition (GTC)** testbed.  
+Attribution is lineage, and lineage must be honored.
 
 ---
 
-## Guiding Principles
+## Principles of Contribution
 
 ### 1. Respect Lineage
-- Acknowledge and preserve the established lineage of the **Gloe Theory of Cognition (GTC)**.  
+- All contributions must acknowledge and preserve the established lineage of the **Gloe Theory of Cognition (GTC)**.  
 - Attribution is required and may not be removed or obscured.
 
-### 2. Integrity in Contribution
-- Engage with rigor, clarity, and honesty.  
-- No distortion, extraction, or erasure of lineage will be accepted.
+### 2. License Boundaries
+- **Code & Scripts** → [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+- **Documentation & Prose** → [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+- Contributions must remain compatible with these licenses.  
+- Submissions incompatible with these boundaries (e.g., proprietary, closed-source, or commercial use) will not be accepted.
 
 ### 3. Clarity over Growth
-- Expansion must serve coherence, depth, and harmonic alignment.  
-- Contributions that obscure or dilute these principles will be declined.
+- Contributions must strengthen coherence, depth, and harmonic alignment.  
+- Expansion without clarity will not be accepted.
 
 ---
 
-## Expected Behavior
-- Communicate with respect and precision.  
-- Provide constructive feedback rooted in clarity.  
-- Reference related concepts or lineage when building upon this work.  
-- Accept responsibility for maintaining harmonic alignment.  
+## How to Contribute
+
+1. Fork the repository and work from your branch.  
+2. Submit pull requests with a clear description of intent.  
+3. Reference related concepts or lineage models when applicable.  
+4. Use concise, descriptive commit messages (e.g., `Add example for Phase Alignment metric`).  
 
 ---
 
-## Unacceptable Behavior
-- Misrepresentation or erasure of lineage.  
-- Extractive or exploitative use of models.  
-- Harassment, personal attacks, or dismissal of contributors.  
-- Submissions that violate license boundaries.  
+## Code of Conduct
+
+- Engage with respect, rigor, and integrity.  
+- No distortion, extraction, or erasure of lineage.  
+- Contributions that violate these principles will be declined.  
+
+For details, see the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
 
 ---
 
-## Enforcement
-- Project maintainers are responsible for clarifying standards and addressing violations.  
-- Contributions that do not align with this Code of Conduct may be modified, rejected, or removed.  
-- Serious or repeated violations may result in removal from participation.  
+## Questions or Clarifications
 
----
-
-## Scope
-This Code of Conduct applies within this repository, including issues, pull requests, discussions,  
-and any community spaces where **Resonance Bench** is represented.  
-
-For contribution details, see [CONTRIBUTING.md](./CONTRIBUTING.md).  
-For licensing details, see [LICENSE](./LICENSE).
+- Open a [Discussion](../../discussions) or [Issue](../../issues).  
+- For deeper context, review [README.md](./README.md) and [CHANGELOG.md](./CHANGELOG.md).
