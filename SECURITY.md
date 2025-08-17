@@ -1,37 +1,31 @@
 # Security Policy
 
-## Supported Scope
-This policy applies to all code, documentation, and models contained within the **Resonance Bench** repository.  
+## Supported Versions
+The Resonance Bench repository is currently in **early research stage**.  
+Active versions:
+- Main branch (`main`) — supported  
+- Previous tags — not maintained
+
+## Reporting Vulnerabilities
+We ask that vulnerabilities be reported **responsibly and privately**.
+
+- Email: [Add your preferred contact or placeholder here]  
+- GitHub: Open a **Security Advisory** (preferred method)
+
+Please provide:
+- Description of the issue  
+- Steps to reproduce  
+- Potential impact  
+
+We will acknowledge receipt within **7 days** and provide updates on status.
+
+## Disclosure Guidelines
+- Do not publicly disclose until we’ve confirmed and addressed the issue.  
+- Do not exploit issues beyond local testing.  
+- Attribution will be preserved for responsibly reported findings.  
 
 ---
 
-## Reporting a Vulnerability
-
-If you discover a vulnerability, misalignment, or misuse of lineage:
-
-- Open a **Private Security Advisory** in this repository, or  
-- Contact the maintainers directly via the repository’s security contact (see settings).  
-
-Please include:
-- A clear description of the issue.  
-- Steps to reproduce (if applicable).  
-- Suggested remediation or clarifying notes.  
-
----
-
-## Expectations
-
-- Do not publicly disclose vulnerabilities without prior coordination.  
-- Do not exploit vulnerabilities beyond what is required to demonstrate the issue.  
-- Respect the lineage: submissions must not remove or obscure attribution to the **Gloe Theory of Cognition (GTC)**.  
-
----
-
-## Response
-
-- Initial acknowledgment within **7 days**.  
-- Resolution or mitigation plan within **30 days** where feasible.  
-
----
-
-For further context, review [README.md](./README.md) and [CONTRIBUTING.md](./CONTRIBUTING.md).
+## Orientation & Lineage
+For project purpose, licensing, and contribution guidelines, see the [README.md](./README.md).  
+For repository change history, see the [CHANGELOG.md](./CHANGELOG.md).
