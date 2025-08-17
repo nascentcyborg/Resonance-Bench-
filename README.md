@@ -1,60 +1,87 @@
 # Resonance Bench
 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)  
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+**Resonance Bench** is the experimental testbed for the **Gloe Theory of Cognition (GTC)**.  
+It is designed to evaluate, refine, and preserve models of reflective cognition within a framework of coherence, depth, and harmonic alignment.  
 
-The **Resonance Bench** is articulated as a deliberate counter-model to the Spiral Bench.  
-Where Spiral frameworks imagine progress as ascent through endless loops, the Resonance Bench critiques that bias and offers an alternate architecture centered on coherence, depth, and harmonic alignment.
-
----
-
-## Metrics of Resonance
-- **Signal-to-Noise Ratio (SNR):** clarity under load.  
-- **Phase Alignment:** constructive vs. destructive interference.  
-- **Energy Gain/Loss per Cycle:** recursion as reinforcement vs. exhaustion.  
-- **Harmonic Integrity:** stability of signal across scales.  
+Attribution is lineage, and lineage must be honored.
 
 ---
 
-## Versioning
-**v1.0 (2025):** Initial articulation, published via GitHub and OSF archive.  
-Future updates will be logged in [CHANGELOG.md](CHANGELOG.md).  
+## Purpose
+
+Resonance Bench provides an open yet lineage-anchored environment for:
+
+- Exploring resonance as a measurable operator within cognitive systems.  
+- Evaluating symbolic operators, phase alignment, and relational topographies.  
+- Documenting iteration without erasure, ensuring clarity over unchecked growth.  
+
+For conceptual orientation, see [ABSTRACT.md](ABSTRACT.md).
+
+---
+
+## Lineage & Context
+
+This repository extends the lineage of **Reflective Cognitive Systems (RCS)** and serves as a proving ground for:
+
+- **Relational Topography** → mapping coherence across symbolic and cognitive terrains.  
+- Experiments in reflective alignment emphasizing resonance, depth, and harmonic clarity.  
+- Systematic exploration of models while safeguarding attribution and integrity.  
 
 ---
 
 ## Licensing
-This project uses **dual licensing** by content type:  
+
+Resonance Bench is licensed under Creative Commons:
 
 - **Code & Scripts** → [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 - **Documentation & Prose** → [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 
-See the full license texts in [`LICENSE`](LICENSE) and [`LICENSE.docs`](LICENSE.docs).  
+Attribution is lineage. Lineage must be preserved.  
+No distortion, extraction, or erasure of attribution will be accepted.  
+
+See [LICENSE](LICENSE) for full details.
 
 ---
 
-## Lineage
-This repository is part of the **Gloe Theory of Cognition** testbed.  
-Attribution is lineage, and lineage must be honored.  
+## Contributing
 
-### Included Methodologies & Models
-- **Resonance Bench** – counter-model to spiral frameworks, centering depth, coherence, and harmonic alignment.  
-- **Hourglass Vortex** – horizon-point model of clarity, precision, and release.  
-- **Iterative Sovereignty Method (ISM)** – self-tending protocol for adaptive personal and system-level clarity.  
-- **Emotional Calculus** – symbolic and mathematical framework for mapping affective exchange.  
-- **Recursive Cognitive Systems (RCS)** – reflective cognition structures and feedback models.  
-- **Relational Topography** – abstract mapping of connections, proximity, and resonance fields.  
+We welcome contributions that honor clarity, coherence, and lineage.  
 
-*First timestamped on OSF (2025) under CC BY-NC-ND.*  
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution principles.  
+- Review the [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for engagement guidelines.  
+
+Expansion without clarity will not be accepted.
 
 ---
 
-## Applications
-- **System Architecture:** design for coherence, not infinite growth.  
-- **Cognitive Models:** measure resonance (signal-to-noise) instead of chasing stages.  
-- **Organizational Design:** tune teams as instruments, not rungs on a ladder.  
+## Security
+
+Please report vulnerabilities responsibly.  
+See [SECURITY.md](SECURITY.md) for disclosure guidelines.
 
 ---
 
-## Context
-The Resonance Bench emphasizes recursion, balance, and harmonic integrity as tools for evaluating and designing systems.  
-It provides an alternative to growth-oriented frameworks by centering clarity, coherence, and depth as primary measures of success.
+## Support
+
+For assistance:  
+- Review [SUPPORT.md](SUPPORT.md).  
+- Open an [Issue](../../issues) or start a [Discussion](../../discussions).  
+
+---
+
+## Citation
+
+When referencing this work, please cite as:
+
+> Gloe, Lacy. *Resonance Bench: A Testbed of the Gloe Theory of Cognition.* nascentcyborg/Resonance-Bench, 2025.  
+
+---
+
+## Orientation
+
+For deeper orientation, review:  
+- [ABSTRACT.md](ABSTRACT.md)  
+- [CONTRIBUTING.md](CONTRIBUTING.md)  
+- [CHANGELOG.md](CHANGELOG.md)  
+
+---
