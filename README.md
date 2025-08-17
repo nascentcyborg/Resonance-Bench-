@@ -103,6 +103,8 @@ This project is distributed under the Resonance License v1.0.
 - Non-commercial use is always permitted.  
 - Commercial use requires explicit permission.  
 
+© 2025 Lacy Gloe. Licensed under CC BY-NC-ND 4.0. See [LICENSE](LICENSE) for full terms.
+
 See [`LICENSE.md`](LICENSE.md) for full terms.  
 
 ---
