@@ -1,11 +1,12 @@
 # Resonance Bench Documentation
 
-Welcome to the **Resonance Bench** documentation site.  
-This is the extended reference for the experimental testbed of the **Gloe Theory of Cognition (GTC)**.  
+Welcome to the documentation hub for **Resonance Bench**, the experimental testbed for the Gloe Theory of Cognition (GTC).
 
-- For an at-a-glance summary, see the [README](../README.md).  
-- For licensing and attribution details, see the [LICENSE](../LICENSE).  
-- For conceptual grounding, see [overview.md](overview.md).  
-- For usage examples, see [usage.md](usage.md).  
-
-This documentation is designed to be lightweight, modular, and directly tied to the repository’s source of truth.
+## Contents
+- [Overview](overview.md) — Purpose, scope, lineage.
+- [Usage](usage.md) — Practical usage notes and examples.
+- [Architecture](architecture.md) — High-level system structure.
+- [Contributing](contributing.md) — How to contribute responsibly.
+- [Security](security.md) — Guidelines for vulnerability reporting.
+- [Support](support.md) — Where to find help.
+- [Changelog](changelog.md) — Version history and updates.
