@@ -1,4 +1,20 @@
-This repository uses dual licensing by content type.
-Unless a file states otherwise:
-- Code and scripts: see LICENSE (CC BY-NC 4.0).
-- Documentation and prose in /docs and *.md listed below: CC BY-NC-ND 4.0.
+This repository uses **dual licensing** by content type.
+
+Unless otherwise noted:
+
+1. **Code & Scripts**  
+   Licensed under the Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).  
+   See [LICENSE](./LICENSE) for full details.  
+   https://creativecommons.org/licenses/by-nc/4.0/
+
+2. **Documentation & Prose** (including all files in /docs/ and all *.md files)  
+   Licensed under the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).  
+   https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+---
+
+This dual structure ensures:  
+- Code may be adapted and remixed (non-commercial only, with attribution).  
+- Documentation/prose may be shared with attribution, but not altered or used commercially.  
+
+Attribution is lineage, and lineage must be honored.
