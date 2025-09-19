@@ -1,6 +1,6 @@
 # Resonance Bench  
 
-**Resonance Bench** is the experimental testbed for the **Gloe Theory of Cognition (GTC)**.  
+**Resonance Bench** is an experimental testbed for the **Gloe Theory of Cognition (GTC)**.  
 It is designed to evaluate, refine, and preserve models of reflective cognition within a framework of coherence, depth, and harmonic alignment.  
 
 Attribution is lineage, and lineage must be honored.  
